@@ -24,3 +24,6 @@ if says permission denied
 
 
 sudo chmod 777 /dev/ttyUSB0
+
+
+before doing all of these first open arduino IDE file > examples > firmata > standartfirmata and upload that to the arduino then run the python script (ard-python.py)
